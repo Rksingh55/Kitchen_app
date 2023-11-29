@@ -1,0 +1,45 @@
+/* *{
+    margin: 0%;
+    padding:0%;
+}
+.header{
+    background-color: red;
+    height: 7vh;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+.navigation{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    background-color: rgb(139, 139, 230);
+   
+}
+.add_cart{
+    width: 30%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main_body{
+    background-color: grey;
+    height: 80vh;
+}
+.footer{
+    background-color: rgb(233, 148, 148);
+    height: 15vh;
+}
+ */
+.banner {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 70vh;
+    width: 55vw;
+    padding: 100px;
+    background-image: url("https://img.freepik.com/premium-photo/vegan-salad-fresh-vegetables-cabbage-romanesko_2829-18879.jpg?w=740");
+}
